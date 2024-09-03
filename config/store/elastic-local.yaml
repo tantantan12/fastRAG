@@ -1,0 +1,4 @@
+type: haystack_integrations.document_stores.elasticsearch.ElasticsearchDocumentStore
+init_parameters:
+    host: localhost:80
+    index: elastic_index_1
